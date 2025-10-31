@@ -218,9 +218,8 @@ Highway Delite is a production-ready, full-stack booking platform that allows us
 
 ## 📋 Available Promo Codes
 
-1. **SAVE10**: 10% discount, 1000 uses available
-2. **FLAT100**: ₹100 flat discount, 500 uses available
-3. **WELCOME20**: 20% discount, 100 uses available
+1. **FLAT50**: ₹50 flat discount, 500 uses available
+2. **WELCOME10**: 10% discount, 100 uses available
 
 ---
 

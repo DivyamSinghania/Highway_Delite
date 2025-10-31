@@ -54,9 +54,10 @@ export default function Home() {
       <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-orange-50 shadow-lg">
         <header className="bg-white border-b sticky top-0 z-50 backdrop-blur-sm bg-white/80">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
-            <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">
+            {/* <h1 className="text-3xl font-bold bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">
               Highway Delite
-            </h1>
+            </h1> */}
+            <img src='/logo_nobg.png' width="100px" alt='Highway Delite Logo'/>
           </div>
         </header>
 
