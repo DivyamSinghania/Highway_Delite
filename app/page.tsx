@@ -8,7 +8,7 @@ import { Skeleton } from '@/components/ui/skeleton';
 import { Experience } from '@/lib/supabase';
 
 export default function Home() {
-  const [experiences, setExperiences] = useState<Experience[]>([]);
+  const [experiences, setExperiences] =   useState<Experience[]>([]);
   const [filteredExperiences, setFilteredExperiences] = useState<Experience[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);

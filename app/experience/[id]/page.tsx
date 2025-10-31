@@ -7,6 +7,7 @@ import { ArrowLeft, Route } from "lucide-react";
 import { Experience, ExperienceSlot } from "@/lib/supabase";
 
 
+
 export default function ExperienceDetails() {
   const params = useParams();
   const router = useRouter();

@@ -211,9 +211,6 @@ Validate a promo code and calculate discount.
    NEXT_PUBLIC_SUPABASE_SERVICE_ROLE_KEY=your_supabase_anon_key
    ```
 
-   ```bash
-   If that does not work due to some issues, You can try hardcoding the env variables in lib/supabase.ts
-   ```
 
 5. **Run the development server**
    ```bash
