@@ -208,7 +208,10 @@ Validate a promo code and calculate discount.
    Update `.env` with your Supabase credentials:
    ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
+   NEXT_PUBLIC_SUPABASE_SERVICE_ROLE_KEY=your_supabase_anon_key
+   ```
+
+   ``` If that does not work due to some issues, You can try hardcoding the env variables in lib/supabase.ts
    ```
 
 5. **Run the development server**
